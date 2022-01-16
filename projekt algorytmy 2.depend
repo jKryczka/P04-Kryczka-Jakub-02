@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642370884 source:c:\users\krycz\documents\projekt algorytmy\projekt algorytmy 2\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+
